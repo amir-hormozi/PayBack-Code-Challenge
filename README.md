@@ -1,1 +1,1 @@
-# PayBack-Code-Chalange
+# PayBack-Code-Challenge
